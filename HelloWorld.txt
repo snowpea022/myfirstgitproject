@@ -2,5 +2,6 @@ HelloWorld git init
 
 hello from git master
 hello from git master again
-hello from trinidad
+hello from trinidad by merge
+trying stash ...
 
