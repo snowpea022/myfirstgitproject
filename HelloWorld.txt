@@ -3,5 +3,5 @@ HelloWorld git init
 hello from git master
 hello from git master again, on master 
 hello from trinidad by merge
-change in trinidad
+change in master
 
