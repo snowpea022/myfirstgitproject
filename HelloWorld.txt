@@ -1,7 +1,7 @@
 HelloWorld git init
 
 hello from git master
-hello from git master again, on master 
-hello from trinidad by merge
+hello from git master again, on master test
+hello from trinidad by merge, test
 change in master
 
