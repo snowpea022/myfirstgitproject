@@ -1,7 +1,7 @@
 HelloWorld git init
 
 hello from git master
-hello from git master again
+hello from git master again, on trinidad 
 hello from trinidad by merge
 trying stash ...
 
