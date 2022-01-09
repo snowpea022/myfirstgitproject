@@ -1,7 +1,6 @@
 HelloWorld git init
-<<<<<<< HEAD
+
 hello from git master
 hello from git master again
-=======
 hello from trinidad
->>>>>>> trinidad
+
